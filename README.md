@@ -5,10 +5,6 @@ Our progress from the evening of 12/08/17, without the lengthy comments in https
 This will be a good starting place for our next session, when
 we'll review what we've already learned and finish up the app.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
